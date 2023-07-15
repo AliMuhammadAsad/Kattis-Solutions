@@ -6,14 +6,42 @@ Solutions to the <a href="https://open.kattis.com/">Kattis Archives</a>
 
 ## Problems
 
-(Note that in the below table, the `Problem` column links link to problem on the Kattis website while the `Languages` column has clickable language icons leading to my solution in that language)
-<!--
-<a href="src/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a>
-
-<a href="src/"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a>
--->
+(Note that in the below table, the `Problem` column links link to problem on the Kattis website while the `Languages` column has clickable language icons leading to my solution in that language). The problems that have asteriks `*` have been tried but not solved successfully - feel free to view my code and suggest me with how I can complete the solution.
 
 | Problem | Languages |
 | - | - |
 | [3D Printed Statues](https://open.kattis.com/problems/3dprinter) | <a href="src/3d-printed-statues.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
-| | |
+| [Aaah!](https://open.kattis.com/problems/aaah) | <a href="src/aaah.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
+| [Adding Words](https://open.kattis.com/problems/addingwords) | <a href="src/adding-words.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [A Different Problem](https://open.kattis.com/problems/different) | <a href="src/a-different-problem.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/a-different-problem.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| *[Associative Exponents](https://open.kattis.com/problems/associativeexponents) | <a href="src/assoc-expo.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/assoc-expo.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| *[Basic Programming 1](https://open.kattis.com/problems/basicprogramming1) | <a href="src/basicpr1.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/basicpr1.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Bijele](https://open.kattis.com/problems/bijele) | <a href="src/bijele.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/bijele.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | <a href="src/code-to-save-lives.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/code-to-save-lives.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Cold-puter Science](https://open.kattis.com/problems/cold) | <a href="src/cold-puter-science.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/cold-puter-science.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Counting Subsequences(Hard)](https://open.kattis.com/problems/subseqhard) | <a href="src/counting-subseqs-hard.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/counting-subseqs-hard.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| *[Deduplicating Files](https://open.kattis.com/problems/deduplicatingfiles) | <a href="src/baylor_w1.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Esej](https://open.kattis.com/problems/esej) | <a href="src/esej.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
+| [Flexible Spaces](https://open.kattis.com/problems/flexible) | <a href="src/flexible-space.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/flexible-space.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Goldbach's Conjecture](https://open.kattis.com/problems/goldbach2) | <a href="src/goldbach.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/goldbach.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Haypoints](https://open.kattis.com/problems/haypoints) | <a href="src/haypoints.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Honeycomb Walk](https://open.kattis.com/problems/honey) | <a href="src/honeycomb-walk.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
+| [Mandelbrot](https://open.kattis.com/problems/mandelbrot) | <a href="src/mandelbrot.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Parent Gap](https://open.kattis.com/problems/parentgap) | <a href="src/parentgap.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| *[Phone List](https://open.kattis.com/problems/phonelist) | <a href="src/phonelist.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/phonelist.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [R2](https://open.kattis.com/problems/r2) | <a href="src/r2.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
+| [Secret Message](https://open.kattis.com/problems/secretmessage) | <a href="src/secret-message.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Server](https://open.kattis.com/problems/server) | <a href="src/server.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/server.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Slatkisi](https://open.kattis.com/problems/slatkisi) | <a href="src/slatkisi.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/slatkisi.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Sperhling](https://open.kattis.com/problems/spehrling) | <a href="src/sperhling.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/sperhling.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| *[T9 Spelling](https://nus.kattis.com/courses/CS2040/CS2040_S2_AY2223/assignments/njzfit/problems/t9spelling) | <a href="src/t9spelling.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/t9spelling.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+| [Take Two Stones](https://open.kattis.com/problems/twostones) | <a href="src/taketwostones.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
+| [Toilet Seat](https://open.kattis.com/problems/toilet) | <a href="src/toiletseat.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> |
+| [Working at a Restaurant](https://open.kattis.com/problems/restaurant) | <a href="src/working-at-a-rest.java"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" width="18px" /></a> |
+| [Zamka](https://open.kattis.com/problems/zamka) | <a href="src/zamka.cpp"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href="src/zamka.py"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a> |
+
+<!--
+<a href=""><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width="18px" /></a> <a href=""><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg" width="18px"/></a>
+
+| []() |  |
+-->
