@@ -4,7 +4,7 @@ Solutions to the <a href="https://open.kattis.com/">Kattis Archives</a>
 
 [Kattis](https://open.kattis.com/) is programming platform with a really clean and modern, easy to understand and use interface. It allows students (not just students) to submit codes to various problems, mostly logical, critical thinking and competitive programming type problems, and have them evaluated automatically by a series of hidden tests. Currenty there are over 2500 problems to Kattis. 
 
-## Problems
+## Problems <img src="https://mpng.hippopng.com/20200217/uzq/transparent-cartoon-sitting-table-learning-desk-2ch5e6b883cdb0605.0634190815841055328971.jpg" align="right" width="230"/>
 
 (Note that in the below table, the `Problem` column links link to problem on the Kattis website while the `Languages` column has clickable language icons leading to my solution in that language). The problems that have asteriks `*` have been tried but not solved successfully - feel free to view my code and suggest me with how I can complete the solution.
 
