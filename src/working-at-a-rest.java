@@ -1,9 +1,9 @@
-package Solutions;
+// package Solutions;
 
-/**
- *
- * @author Max
- */
+// /**
+//  *
+//  * @author Max
+//  */
 import java.io.*;
 
 public class restaurant {
