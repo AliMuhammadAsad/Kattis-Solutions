@@ -4,6 +4,8 @@
 
 Solutions to the <a href="https://open.kattis.com/">Kattis Archives</a>
 
+Total Problems: <span id="total">0</span>
+
 <a href="https://open.kattis.com/" target="_blank">Kattis</a> is programming platform with a really clean and modern, easy to understand and use interface. It allows students (not just students) to submit codes to various problems, mostly logical, critical thinking and competitive programming type problems, and have them evaluated automatically by a series of hidden tests. Currenty there are over 2500 problems to Kattis. 
 
 ## Problems <img src="problem-coding.png" align="right" width="230"/>
@@ -85,3 +87,10 @@ Solutions to the <a href="https://open.kattis.com/">Kattis Archives</a>
 
 | []() |  |
 -->
+<script>
+    document.addEventListener('DOMContentLoaded', function(){
+        const plinks = document.querySelectorAll('a[href^="https://open.kattis.com/problems/"]');
+        const count = plinks.length;
+        document.getElementById('total').textContent = count - 1;
+    });
+</script>
