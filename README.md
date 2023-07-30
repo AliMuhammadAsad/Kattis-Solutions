@@ -91,6 +91,6 @@ Total Problems: <span id="total">0</span>
     document.addEventListener('DOMContentLoaded', function(){
         const plinks = document.querySelectorAll('a[href^="https://open.kattis.com/problems/"]');
         const count = plinks.length;
-        document.getElementById('total').textContent = count - 1;
+        document.getElementById('total').textContent = count;
     });
 </script>
